@@ -37,6 +37,7 @@
             k3d # k3s in Docker
             nodejs_22 # Frontend
             dotnetCorePackages.sdk_9_0 # Backend
+            just # Task runner
           ];
 
           # Development Environment Variables
@@ -54,6 +55,7 @@
             k3d # k3s in Docker
             nodejs_22 # Frontend
             dotnetCorePackages.sdk_9_0 # Backend
+            just # Task runner
 
             # Platform
             terraform # Infrastructure as Code CLI
